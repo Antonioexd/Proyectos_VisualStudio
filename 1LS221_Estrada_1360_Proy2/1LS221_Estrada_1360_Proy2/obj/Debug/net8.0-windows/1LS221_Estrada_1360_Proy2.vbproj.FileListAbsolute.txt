@@ -1,0 +1,17 @@
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\_1LS221_Estrada_1360_Proy2.Form1.resources
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\_1LS221_Estrada_1360_Proy2.Resources.resources
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.vbproj.GenerateResource.cache
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.AssemblyInfo.vb
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.vbproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\bin\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.exe
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\bin\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.deps.json
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\bin\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.runtimeconfig.json
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\bin\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.dll
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\bin\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.pdb
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.dll
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\refint\1LS221_Estrada_1360_Proy2.dll
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.pdb
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\1LS221_Estrada_1360_Proy2.genruntimeconfig.cache
+C:\Users\anton\source\repos\1LS221_Estrada_1360_Proy2\1LS221_Estrada_1360_Proy2\obj\Debug\net8.0-windows\ref\1LS221_Estrada_1360_Proy2.dll
